@@ -88,3 +88,4 @@
 
 2. **Just because it's in print doesn't mean it's the gospel** : Create a man page for your function.
 	- How to read the man page: `man ./man_3_printf`
+# Few Additions
